@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">My Tour Guide</string>
+    <string name="category_attractions">Attractions</string>
+    <string name="category_restaurants">Restaurants</string>
+    <string name="category_museums">Museums</string>
+    <string name="category_parks">Parks</string>
+
+
+    <!-- Attractions -->
+    <string name="attractions_name_1">Merlion Park</string>
+    <string name="attractions_address_1">1 Fullerton Rd, Singapore 049213</string>
+    <string name="attractions_opening_hours_1">Open</string>
+    <string name="attractions_website_1">www.visitsingapore.com/see-do-singapore/recreation-leisure/viewpoints/merlion-park</string>
+
+    <string name="attractions_name_2">Sentosa Island</string>
+    <string name="attractions_address_2">39 Artillery Avenue, Sentosa, Singapore 099958</string>
+    <string name="attractions_opening_hours_2">Daily 9am - 6pm</string>
+    <string name="attractions_website_2">www.sentosa.com.sg</string>
+
+    <string name="attractions_name_3">Singapore Flyer</string>
+    <string name="attractions_address_3">30 Raffles Avenue, Singapore 039803</string>
+    <string name="attractions_opening_hours_3">Daily 8.30am - 10.30pm</string>
+    <string name="attractions_website_3">www.singaporeflyer.com</string>
+
+
+    <!-- Restaurants -->
+    <string name="restaurants_name_1">Tian Tian Hainanese Chicken Rice</string>
+    <string name="restaurants_address_1">1 Kadayanallur Street, #01-10/11 Maxwell Food Centre</string>
+    <string name="restaurants_opening_hours_1">Tue to Sun: 11am - 8pm</string>
+    <string name="restaurants_website_1">www.thebestsingapore.com/best-place/tian-tian-hainanese-chicken-rice</string>
+
+    <string name="restaurants_name_2">Song Fa Bak Kut Teh</string>
+    <string name="restaurants_address_2">11 New Bridge Road #01-01, Singapore 059383</string>
+    <string name="restaurants_opening_hours_2">Tue - Sun: 7am - 9.30pm</string>
+    <string name="restaurants_website_2">songfa.com.sg</string>
+
+    <string name="restaurants_name_3">Mellben Seafood</string>
+    <string name="restaurants_address_3">232 Ang Mo Kio Avenue 3, #01-1222</string>
+    <string name="restaurants_opening_hours_3">Daily 4.30pm - 11.30pm</string>
+    <string name="restaurants_website_3">www.thebestsingapore.com/best-place/mellben-seafood</string>
+
+
+    <!-- Museums -->
+    <string name="museums_name_1">National Museum of Singapore</string>
+    <string name="museums_address_1">93 Stamford Rd Singapore 178897</string>
+    <string name="museums_opening_hours_1">Daily 10am - 7pm</string>
+    <string name="museums_website_1">www.nationalmuseum.sg</string>
+
+    <string name="museums_name_2">ArtScience Museum</string>
+    <string name="museums_address_2">Marina Bay Sands, 10 Bayfront Avenue, Singapore 018956</string>
+    <string name="museums_opening_hours_2">Daily 10am - 7pm</string>
+    <string name="museums_website_2">www.marinabaysands.com/museum.html</string>
+
+    <string name="museums_name_3">Lee Kong Chian Natural History Museum</string>
+    <string name="museums_address_3">National University of Singapore, 2 Conservatory Dr, Singapore 117377</string>
+    <string name="museums_opening_hours_3">Tue - Sun: 10am - 7pm</string>
+    <string name="museums_website_3">lkcnhm.nus.edu.sg</string>
+
+
+    <!-- Parks -->
+    <string name="parks_name_1">Gardens by the Bay</string>
+    <string name="parks_address_1">18 Marina Gardens Drive Singapore 018953</string>
+    <string name="parks_opening_hours_1">Daily 5am - 2am</string>
+    <string name="parks_website_1">www.gardensbythebay.com.sg</string>
+
+    <string name="parks_name_2">Singapore Botanic Gardens</string>
+    <string name="parks_address_2">1 Cluny Rd, Singapore 259569</string>
+    <string name="parks_opening_hours_2">Daily 5am - 12am</string>
+    <string name="parks_website_2">www.nparks.gov.sg/SBG</string>
+
+    <string name="parks_name_3">Bukit Timah Nature Reserve</string>
+    <string name="parks_address_3">End of Hindhede Drive</string>
+    <string name="parks_opening_hours_3">Daily 7am - 7pm</string>
+    <string name="parks_website_3">www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/bukit-timah-nature-reserve</string>
+
+</resources>
